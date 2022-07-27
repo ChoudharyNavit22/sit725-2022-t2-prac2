@@ -10,6 +10,7 @@ This is a very basic node express application that host a web application. This 
 Open the project in visual studio code
 
 ```
+$ npm install
 $ npm run start
 ```
 
